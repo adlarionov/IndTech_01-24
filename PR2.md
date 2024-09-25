@@ -8,5 +8,8 @@
 
 Объект: Интернет-магазин одежды.
 
-![anton_2 drawio](https://github.com/user-attachments/assets/b209659c-a291-403e-98d8-4a32c1c34ae4)
+![anton_2 drawio](https://github.com/user-attachments/assets/6c4ce2dc-a5dd-4a18-b19a-882d73d55a8b)
 
+Два участника процесса:
+- Покупатель
+- Продавец (Администратор)
